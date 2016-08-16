@@ -1,5 +1,9 @@
+pry = require('pryjs');
+
 var Isogram = function(word){
   this.word = word;
+  eval(pry.it)
+
 };
 
 Isogram.prototype.isIsogram = function(){
