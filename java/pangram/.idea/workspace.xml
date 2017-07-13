@@ -48,8 +48,8 @@
           <file leaf-file-name="PangramChecker.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/PangramChecker.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="330">
-                  <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+                <state relative-caret-position="240">
+                  <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -1037,14 +1037,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499899797739</updated>
-      <workItem from="1499899800856" duration="2620000" />
+      <workItem from="1499899800856" duration="3469000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PangramCheckerTest - 2017.07.12 at 18h 34m 52s.xml">
-      <configuration name="PangramCheckerTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PangramCheckerTest - 2017.07.12 at 18h 37m 10s.xml">
       <configuration name="PangramCheckerTest" configurationId="JUnit" />
     </history-entry>
@@ -1054,11 +1051,14 @@
     <history-entry file="PangramCheckerTest - 2017.07.12 at 18h 45m 24s.xml">
       <configuration name="PangramCheckerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PangramCheckerTest_emptySentenceIsNotPangram - 2017.07.12 at 18h 34m 31s.xml">
-      <configuration name="PangramCheckerTest.emptySentenceIsNotPangram" configurationId="JUnit" />
+    <history-entry file="PangramCheckerTest - 2017.07.12 at 18h 53m 38s.xml">
+      <configuration name="PangramCheckerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PangramCheckerTest_pangramWithOnlyLowerCaseLettersIsRecognizedAsPangram - 2017.07.12 at 18h 34m 18s.xml">
-      <configuration name="PangramCheckerTest.pangramWithOnlyLowerCaseLettersIsRecognizedAsPangram" configurationId="JUnit" />
+    <history-entry file="PangramCheckerTest - 2017.07.12 at 18h 57m 56s.xml">
+      <configuration name="PangramCheckerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PangramCheckerTest - 2017.07.12 at 18h 58m 52s.xml">
+      <configuration name="PangramCheckerTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="PangramCheckerTest_pangramWithOnlyLowerCaseLettersIsRecognizedAsPangram - 2017.07.12 at 18h 37m 40s.xml">
       <configuration name="PangramCheckerTest.pangramWithOnlyLowerCaseLettersIsRecognizedAsPangram" configurationId="JUnit" />
@@ -1074,7 +1074,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2620000" />
+    <option name="totallyTimeSpent" value="3469000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1675" height="1027" extended-state="6" />
@@ -1151,8 +1151,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/PangramChecker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="240">
+          <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.HashSet;
 import java.util.List;
 
 public class PangramChecker {
@@ -9,14 +10,12 @@ public class PangramChecker {
         return findUniqeCount(alphaString) == 26;
     }
 
-    private int findUniqeCount(String alphabeticalString){
-        String uniqueString = "";
-        for(int i = 0; i < alphabeticalString.length(); i++){
-            if (uniqueString.indexOf(alphabeticalString.charAt(i)) == -1){
-                uniqueString += alphabeticalString.charAt(i);
-            }
-        }
-        return uniqueString.length();
-    }
+    private long findUniqeCount(String alphabeticalString){
+        long count = alphabeticalString
+                            .codePoints()
+                            .distinct()
+                            .count();
 
+        return count;
+    }
 }
