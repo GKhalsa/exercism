@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/circular-buffer.iml" filepath="$PROJECT_DIR$/circular-buffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/circular-buffer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/circular-buffer_main.iml" group="circular-buffer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/circular-buffer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/circular-buffer_test.iml" group="circular-buffer" />
+    </modules>
+  </component>
+</project>
